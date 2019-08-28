@@ -1,2 +1,2 @@
 # uricppsolutions
-my URI Online Judge C++ solutions
+my URI Online Judge solutions
